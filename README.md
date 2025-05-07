@@ -27,12 +27,12 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits, each o
 
 ## 📂 Project Structure
 
-- README.md # Project documentation
-- data/ # Data loading/preprocessing scripts
-- models/ # Model architecture and training code
-- notebooks/ # Jupyter notebooks for exploration
-- results/ # Saved models, predictions, visualizations
-- app.py # Main script to run the model
+- README.md  #Project documentation
+- data/   #Data loading/preprocessing scripts
+- models/   #Model architecture and training code
+- notebooks/   #Jupyter notebooks for exploration
+- results/   #Saved models, predictions, visualizations
+- app.py   #Main script to run the model
 
 ## 🔧 Setup & Installation
 
