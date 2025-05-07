@@ -27,12 +27,12 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits, each o
 
 ## 📂 Project Structure
 
-├── data/ # Data loading/preprocessing scripts
-├── models/ # Model architecture and training code
-├── notebooks/ # Jupyter notebooks for exploration
-├── results/ # Saved models, predictions, visualizations
-├── README.md # Project documentation
-└── app.py # Main script to run the model
+- README.md # Project documentation
+- data/ # Data loading/preprocessing scripts
+- models/ # Model architecture and training code
+- notebooks/ # Jupyter notebooks for exploration
+- results/ # Saved models, predictions, visualizations
+- app.py # Main script to run the model
 
 ## 🔧 Setup & Installation
 
@@ -60,4 +60,4 @@ Input Image	Predicted Label
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-👤 Author: [Suman Paul](https://github.com/sumanpaul6290)
+## 👤 Author: [Suman Paul](https://github.com/sumanpaul6290)
