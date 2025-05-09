@@ -15,7 +15,7 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits, each o
 ## 🛠️ Technologies Used
 
 - Python
-- TensorFlow / Keras (or PyTorch)
+- TensorFlow & Keras 
 - NumPy
 - Matplotlib / Seaborn
 
@@ -46,7 +46,6 @@ cd MNIST-Handwritten-Digit-Classification-Model
 ## ✅ Results
 The model achieves ~99% accuracy on the MNIST test set. Sample predictions:
 
-Input Image	Predicted Label
 
 ![Screenshot (464)](https://github.com/user-attachments/assets/6553fd26-72f5-4a16-857b-970275f32791)
 
